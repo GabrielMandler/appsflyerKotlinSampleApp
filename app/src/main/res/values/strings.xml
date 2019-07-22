@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kotlinsampleapp</string>
+    <string name="get_conversion_data">Get conversion data</string>
+    <string name="simple_in_app_events">Simple In app events</string>
+    <string name="oaoa">OAOA results will be visible after deeplinking into the app</string>
+    <string name="deeplink"></string>
+    <string name="kotlin_sample_app">Kotlin sample app</string>
+    <string name="event_tracking">Event Tracking</string>
+    <string name="event_value">Event Value</string>
+    <string name="event_name">Event Name</string>
+    <string name="please_wait">Please wait…</string>
+</resources>
+
